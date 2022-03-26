@@ -1,19 +1,8 @@
-[![Udacity Computer Vision Nanodegree](http://tugan0329.bitbucket.io/imgs/github/cvnd.svg)](https://www.udacity.com/course/computer-vision-nanodegree--nd891)
+# My Projects from the Computer Vision Nanodegree
 
-![readme picture](http://tugan0329.bitbucket.io/imgs/github/cvnd-readme.jpg)
+## About
+This is a repository for documenting my education of Computer Vision. It includes the projects and tutorials I completed sucessfully from the Udacity's [Computer Vision Nanodegree program](https://www.udacity.com/course/computer-vision-nanodegree--nd891). I have learnt cutting-edge computer vision and deep learning techniques — from basic image processing, to building and customizing convolutional neural networks. These concepts are used for vision tasks such as automatic image captioning and object tracking.
 
-# Udacity-Computer-Vision
+## Contents
 
-These are work and projects I developed as a part of [Udacity Computer Vision Nanodegree Program](https://www.udacity.com/course/computer-vision-nanodegree--nd891).
-
-## Relevant Projects
-
-You can also view my [self driving car projects](https://github.com/Michael-Tu/Udacity-Self-Driving-Car) and [robotic projects](https://github.com/Michael-Tu/Udacity-Robotics). 
-
-These projects include but not limited to facial recognition, facial keypoints detection, automatic image captioning, and landmark detection and localization using SLAM (simultaneous localization and mapping).
-
-
-## Environment Setup
-Make sure you have Anaconda installed. Then, run `conda env create -f environment.yml` to install all necessary packages needed for all my projects.
-
-
+### Exercises
